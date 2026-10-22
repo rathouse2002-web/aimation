@@ -1,0 +1,4 @@
+interface:
+  display_name: "H3 Eight-Direction Actions"
+  short_description: "Write synchronized H3 actions from eight-view idle sheets"
+  default_prompt: "Use $h3-eight-direction-actions to write the requested H3 action prompts from the attached eight-direction idle sheet, preserving each view's direction and checking prompt length."
